@@ -9,6 +9,8 @@ An example of [MariaDB](https://hub.docker.com/_/mariadb/) and [Adminer](https:/
 1. Install the [WeDeploy CLI](https://wedeploy.com/docs/intro/using-the-command-line/).
 2. Clone this repository.
 3. Open the project with your command line and run `we deploy -p yourproject`.
+4. Go to `https://admin-yourproject.wedeploy.io/`
+5. Log in with **MySQL** as system, **root** as username, and **passw0rd** as password. 
 
 ## License
 
